@@ -5,6 +5,7 @@ RockMongo Docker modified from "webts/rockmongo" implementation
 Rockmongo used for this container is pulled from  a forked version of Rockmongo with some modification on the "config.php" that will check for values from environmen variables before setting the default values. 
 
 Original Rockmongo repository: https://github.com/iwind/rockmongo
+
 Forked version of Rockmongo with modified "config.php": https://git@github.com:gilacode/rockmongo.git
 
 Limitation
