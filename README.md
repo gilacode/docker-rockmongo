@@ -11,9 +11,11 @@ Limitation
 ==========
 Currently this implementation only support overriding 1 database configuration. Default implementation Rockmongo allows for multiple Mongo database connection.
 
-Roadmap
-=======
-Add the capability for Rockmongo to read from environment variables in JSON format so we can put multiple database configurations
+Next planning to add the capability for Rockmongo to read from environment variables in JSON format so we can put multiple database configurations and request for pull. Busy at the moment to do that. :)
+
+Build
+=====
+docker build -t gilacode/rockmongo
 
 Run
 ===
